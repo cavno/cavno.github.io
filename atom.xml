@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://cavno.github.io/atom.xml" rel="self"/>
   <link href="http://cavno.github.io/"/>
-  <updated>2014-03-10T21:07:42+08:00</updated>
+  <updated>2014-03-10T21:26:49+08:00</updated>
   <id>http://cavno.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wo De Di [?] Pian Bo Ke]]></title>
+    <link href="http://cavno.github.io/blog/2014/03/10/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
+    <updated>2014-03-10T00:00:00+08:00</updated>
+    <id>http://cavno.github.io/blog/2014/03/10/wo-de-di-[?]-pian-bo-ke</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>你好，博客！</p>
+]]></content>
+  </entry>
   
 </feed>
